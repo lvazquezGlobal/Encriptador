@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Tarjetas-ENC-Liber.props" />
+</Project>

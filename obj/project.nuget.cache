@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wzl89Jl3YDo7gT9jGMxaa15QWLGG7cH46NVDkS+AGLocue1NLGF4iE65TDKZqLYOqw7p7nzM9gf2hW5dafc9SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lvazquez\\Desktop\\Tarjetas-ENC-Liber\\Tarjetas-ENC-Liber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lvazquez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\lvazquez\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\lvazquez\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\lvazquez\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\lvazquez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\lvazquez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\lvazquez\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
+    "C:\\Users\\lvazquez\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

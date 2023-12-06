@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tarjetas-ENC-Liber.props" />
+</Project>
